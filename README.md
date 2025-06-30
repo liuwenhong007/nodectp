@@ -15,3 +15,7 @@ node-gyp rebuild
 node ./test/mduser.js
 #node ./test/tduser.js
 ```
+# 安装环境 linux
+node -v  v10.24.1
+node-gyp -v v7.1.2
+python -v v3.10
